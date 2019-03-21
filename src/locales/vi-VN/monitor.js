@@ -13,6 +13,6 @@ export default {
   'app.monitor.hot-pot': 'Phising',
   'app.monitor.waiting-for-implementation': 'Waiting for implementation',
   'app.monitor.popular-searches': 'Mã độc phổ biến',
-  'app.monitor.resource-surplus': 'Tài nguyên hiện tại',
+  'app.monitor.resource-surplus': 'Tài nguyên hệ thống',
   'app.monitor.fund-surplus': 'Bộ nhớ',
 };
