@@ -9,7 +9,7 @@ export default {
 
   effects: {
     *fetchTags(_, { call, put }) {
-      const response = yield call(queryTags);
+      // const response = yield call(queryTags);
       yield put({
         type: 'saveTags',
         payload: response.list,
