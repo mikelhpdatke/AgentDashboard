@@ -1,0 +1,18 @@
+export default {
+  'app.monitor.trading-activity': 'Hoạt động của tác tử ',
+  'app.monitor.total-transactions': 'Tổng số thiết bị',
+  'app.monitor.sales-target': 'Số thiết bị đang hoạt động',
+  'app.monitor.remaining-time': 'Thời gian hoạt động',
+  'app.monitor.total-transactions-per-second': 'Số cuộc tấn công hôm nay',
+  'app.monitor.activity-forecast': 'Dữ liệu thời gian thực',
+  'app.monitor.efficiency': 'Kết quả phát hiện',
+  'app.monitor.ratio': 'Tỉ lệ',
+  'app.monitor.proportion-per-category': 'Thống kê các kiểu tấn công',
+  'app.monitor.fast-food': 'DDOS',
+  'app.monitor.western-food': 'Brute Force',
+  'app.monitor.hot-pot': 'Phising',
+  'app.monitor.waiting-for-implementation': 'Waiting for implementation',
+  'app.monitor.popular-searches': 'Mã độc phổ biến',
+  'app.monitor.resource-surplus': 'Tài nguyên hiện tại',
+  'app.monitor.fund-surplus': 'Bộ nhớ',
+};

@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "scalerank": 3,
+          "featurecla": "Admin-0 country",
+          "LABELRANK": 5,
+          "SOVEREIGNT": "Netherlands",
+          "SOV_A3": "NL1",
+          "ADM0_DIF": 1,
+          "LEVEL": 2,
+          "TYPE": "Country",
+          "ADMIN": "Aruba",
+          "ADM0_A3": "ABW",
+          "GEOU_DIF": 0,
+          "GEOUNIT": "Aruba",
+          "GU_A3": "ABW",
+          "SU_DIF": 0,
+          "SUBUNIT": "Aruba",
+          "SU_A3": "ABW",
+          "BRK_DIFF": 0,
+          "NAME": "Aruba",
+          "NAME_LONG": "Aruba",
+          "BRK_A3": "ABW",
+          "BRK_NAME": "Aruba",
+          "BRK_GROUP": null,
+          "ABBREV": "Aruba",
+          "POSTAL": "AW",
+          "FORMAL_EN": "Aruba",
+          "FORMAL_FR": null,
+          "NOTE_ADM0": "Neth.",
+          "NOTE_BRK": null,
+          "NAME_SORT": "Aruba",
+          "NAME_ALT": null,
+          "MAPCOLOR7": 4,
+          "MAPCOLOR8": 2,
+          "MAPCOLOR9": 2,
+          "MAPCOLOR13": 9,
+          "POP_EST": 103065,
+          "GDP_MD_EST": 2258,
+          "POP_YEAR": -99,
+          "LASTCENSUS": 2010,
+          "GDP_YEAR": -99,
+          "ECONOMY": "6. Developing region",
+          "INCOME_GRP": "2. High income: nonOECD",
+          "WIKIPEDIA": -99,
+          "FIPS_10_": "AA",
+          "ISO_A2": "AW",
+          "ISO_A3": "ABW",
+          "ISO_N3": "533",
+          "UN_A3": "533",
+          "WB_A2": "AW",
+          "WB_A3": "ABW",
+          "WOE_ID": 23424736,
+          "WOE_ID_EH": 23424736,
+          "WOE_NOTE": "Exact WOE match as country",
+          "ADM0_A3_IS": "ABW",
+          "ADM0_A3_US": "ABW",
+          "ADM0_A3_UN": -99,
+          "ADM0_A3_WB": -99,
+          "CONTINENT": "North America",
+          "REGION_UN": "Americas",
+          "SUBREGION": "Caribbean",
+          "REGION_WB": "Latin America & Caribbean",
+          "NAME_LEN": 5,
+          "LONG_LEN": 5,
+          "ABBREV_LEN": 5,
+          "TINY": 4,
+          "HOMEPART": -99
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                104.35017338100011,
+                22.626368306000134
+              ],
+              [
+                104.31017338100011,
+                22.616368306000134
+              ],
+              [
+                104.39017338100011,
+                22.686368306000134
+              ],
+              [
+                104.32017338100011,
+                22.686368306000134
+              ],
+              [
+                104.34017338100011,
+                22.686368306000134
+              ],
+              [
+                105.5514,
+                21.2755
+              ],
+              [
+                105.3514,
+                21.2755
+              ],
+              [
+                105.2514,
+                21.6755
+              ],
+              [
+                105.6514,
+                21.9755
+              ],
+              [
+                105.6514,
+                21.9755
+              ],
+              [
+                104.6514,
+                20.3755
+              ],
+              [
+                103.6514,
+                22.3755
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  }
