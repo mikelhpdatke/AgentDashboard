@@ -22,7 +22,8 @@ export default {
       // const response = yield call(queryCurrent);
       const response = {
         name: 'Admin',
-        avatar: 'https://gw.alipayobjects.com/zos/antfincdn/XAosXuNZyF/BiazfanxmamNRoxxVxka.png',
+        avatar: 'https://svgsilh.com/svg/1633249.svg',
+        // avatar: 'https://gw.alipayobjects.com/zos/antfincdn/XAosXuNZyF/BiazfanxmamNRoxxVxka.png',
         userid: '00000001',
         email: 'PTIT@gmail.com',
         signature: 'TomCat',

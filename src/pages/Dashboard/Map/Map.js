@@ -3,76 +3,11 @@ import React, { Component } from 'react';
 import MapGL, { Marker } from 'react-map-gl';
 import vnJson from './vn.json';
 import styles from './Map.less';
+import markersLocation from './locationData';
 
 const MAPBOX_TOKEN =
   'pk.eyJ1IjoibWlrZWxocGRhdGtlIiwiYSI6ImNqdGloN3gzazBwdGc0NHAycXVtaWNlMDMifQ.Oi2bN4--FRp_Q7vs1Kz2Lg'; // Set your mapbox token here
 const HEATMAP_SOURCE_ID = 'earthquakes-source';
-const markersLocation = [
-  {
-    longitude: 105.7674,
-    latitude: 20.9598,
-    ip: '10.32.26.31',
-    name: 'Hà Đông, Hà Nội',
-    status: true,
-  },
-  { longitude: 108.2119396, latitude: 16.068, ip: '10.32.26.31', name: 'Đà Nẵng', status: true },
-  {
-    longitude: 106.650936,
-    latitude: 10.76472,
-    ip: '10.32.26.31',
-    name: 'Hồ Chí Minh',
-    status: true,
-  },
-  {
-    longitude: 105.85239,
-    latitude: 21.02876,
-    ip: '10.32.26.31',
-    name: 'Hoàn Kiếm, Hà Nội',
-    status: true,
-  },
-  {
-    longitude: 105.3621,
-    latitude: 21.3999,
-    ip: '10.32.26.31',
-    name: 'Việt Trì, Phú Thọ',
-    status: true,
-  },
-  {
-    longitude: 106.7308,
-    latitude: 21.8946,
-    ip: '10.32.26.31',
-    name: 'Lạng Sơn',
-    status: true,
-  },
-  {
-    longitude: 106.714235,
-    latitude: 20.7733,
-    ip: '10.32.26.31',
-    name: 'Hải Phòng',
-    status: true,
-  },
-  {
-    longitude: 104.079,
-    latitude: 22.3612,
-    ip: '10.32.26.31',
-    name: 'Lào Cai',
-    status: true,
-  },
-  {
-    longitude: 103.0185,
-    latitude: 21.447489,
-    ip: '10.32.26.31',
-    name: 'Điện Biên Phủ',
-    status: true,
-  },
-  {
-    longitude: 104.1161,
-    latitude: 21.3022,
-    ip: '10.32.26.31',
-    name: 'Sơn La',
-    status: false,
-  },
-];
 export default class App extends Component {
   constructor(props) {
     super(props);

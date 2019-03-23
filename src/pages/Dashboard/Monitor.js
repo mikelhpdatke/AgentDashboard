@@ -11,7 +11,7 @@ import numeral from 'numeral';
 import GridContent from '@/components/PageHeaderWrapper/GridContent';
 import Authorized from '@/utils/Authorized';
 import styles from './Monitor.less';
-import Map from './Map';
+import Map from './Map/Map';
 
 const { Secured } = Authorized;
 
